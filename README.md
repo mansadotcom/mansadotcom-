@@ -13,13 +13,10 @@
 
 ## 🤳 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naftal%20Musa-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naftal-musa)
-
-[![Instagram](https://img.shields.io/badge/Instagram-musaa.a__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musaa.a__/)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254790323851)
-
-[![Website](https://img.shields.io/badge/Website-Naftal%20Musa-black?style=for-the-badge&logo=firefox&logoColor=white)](https://naftalmusaa.wixsite.com/my-site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naftal%20Musa-008080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naftal-musa)
+[![Instagram](https://img.shields.io/badge/Instagram-musaa.a__-008080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musaa.a__/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-008080?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254790323851)
+[![Website](https://img.shields.io/badge/Website-Naftal%20Musa-008080?style=for-the-badge&logo=firefox&logoColor=white)](https://naftalmusaa.wixsite.com/my-site)
 
 <!--
 **mansadotcom/mansadotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
