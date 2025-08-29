@@ -1,6 +1,8 @@
-<h1>Hi, I'm Naftal! <br/><a href="https://github.com/mansadotcom">Programmer</a>, <a href="https://www.alxafrica.com/join-pathway/">ALX Pathway Learner</a>
+<h1>Hi, I'm Naftal! 
+  <br/><a href="https://github.com/mansadotcom">Programmer</a>, <a href="https://www.alxafrica.com/join-pathway/">ALX Pathway Learner</a>
 
 - 🔭 I’m currently working on completing my ALX PAthway Foundations Course :)
+- Student of EE at TU-K
 
 <h2>👨‍💻 ALX Projects:</h2>
 
