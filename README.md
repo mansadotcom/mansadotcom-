@@ -15,7 +15,7 @@
 
 [<img align="left" alt="NaftalMusa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NaftalMusa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="NaftalMusa | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][whatsapp]
+[<img align="left" alt="NaftalMusa | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [linkedin]: https://linkedin.com/in/naftal-musa
 [instagram]: https://www.instagram.com/musaa.a__/
