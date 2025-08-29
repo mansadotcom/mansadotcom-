@@ -8,7 +8,7 @@
 
   - [BlockChain Voting App Video Pitch](https://drive.google.com/file/d/16_JLOPvMhEnIMVppN21-uSPfgpOftl-q/view)
 
-- <b>Python</b>
+<b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## 🤳 Connect with me:
