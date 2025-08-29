@@ -19,7 +19,7 @@
 
 [linkedin]: https://linkedin.com/in/naftal-musa
 [instagram]: https://www.instagram.com/musaa.a__/
-[whatsapp]: +254 790 323851 
+[whatsapp]: (+254 790 323851)  
 
 <!--
 **mansadotcom/mansadotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
