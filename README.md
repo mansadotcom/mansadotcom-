@@ -5,10 +5,10 @@
 <h2>👨‍💻 ALX Projects:</h2>
 
 - <b>BlockChain Voting App Video Pitch</b>
-  - (https://drive.google.com/file/d/16_JLOPvMhEnIMVppN21-uSPfgpOftl-q/view)
+  - [Download from Google Drive](https://drive.google.com/file/d/16_JLOPvMhEnIMVppN21-uSPfgpOftl-q/view)
  
-- <b>BlockChain VOting App Slide Deck</b>
-  - https://docs.google.com/presentation/d/16yZu9Flu_p4cZbQl3B7szDsEwyNlW-94/edit?usp=drive_web&ouid=112690064311299080821&rtpof=true 
+- <b>BlockChain Voting App Slide Deck</b>
+  - [Download from Google Drive](https://docs.google.com/presentation/d/16yZu9Flu_p4cZbQl3B7szDsEwyNlW-94/edit?usp=drive_web&ouid=112690064311299080821&rtpof=true)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
